@@ -1,7 +1,7 @@
 ---
 title: "Simulations & Tidyverse lab: Intermediate Version"
 subtitle: "PSYC 201A, Data Simulation Lab 1"
-author: "Your name here"
+author: "Catherine Maximous"
 date: today
 format:
   pdf:
